@@ -1,0 +1,9 @@
+---
+applications:
+- name: carehome-survey
+  command: npm start
+  memory: 256M
+  buildpack: nodejs_buildpack
+  random-route: true
+  services:
+    - chs-redis

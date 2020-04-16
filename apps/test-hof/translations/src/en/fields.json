@@ -1,0 +1,92 @@
+{
+  "name": {
+    "label": "Name"
+  },
+  "provider-name": {
+    "label": "Provider name"
+  },
+  "provider-info": {
+    "label": "Provider information"
+  },
+  "address-line-1": {
+    "label": "Address"
+  },
+  "address-line-2": {
+    "label": "Address line 2"
+  },
+  "town": {
+    "label": "Town"
+  },
+  "country": {
+    "label": "Country"
+  },
+  "postcode": {
+    "label": "Postcode"
+  },
+  "phone-no": {
+    "label": "Phone number",
+    "hint": "Primary contact number, can be landline or mobile phone"
+  },
+  "resident-in-uk": {
+    "legend": "Are you permanently resident in the United Kingdom?",
+    "options": {
+      "yes": {
+        "label": "Yes"
+      },
+      "no": {
+        "label": "No"
+      }
+    }
+  },
+  "email-address": {
+    "label": "Email address",
+    "validation": {
+      "required": "Please enter an email address",
+      "email": "Please enter a valid email address containing an '@' symbol"
+    }
+  },
+  "have-tablets": {
+    "legend": "Do you have tablet(s) in your care home?",
+    "options": {
+      "yes": {
+        "label": "Yes"
+      },
+      "no": {
+        "label": "No"
+      }
+    }
+  },
+  "need-tablets": {
+    "legend": "Do you need a tablet in your care home?",
+    "options": {
+      "yes": {
+        "label": "Yes"
+      },
+      "no": {
+        "label": "No"
+      }
+    }
+  },
+  "have-wifi": {
+    "legend": "Do you have wifi in your care home?",
+    "options": {
+      "yes": {
+        "label": "Yes"
+      },
+      "no": {
+        "label": "No"
+      }
+    }
+  },
+  "need-wifi": {
+    "legend": "Do you need wifi in your care home?",
+    "options": {
+      "yes": {
+        "label": "Yes"
+      },
+      "no": {
+        "label": "No"
+      }
+    }
+  }
+}

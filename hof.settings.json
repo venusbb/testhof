@@ -1,0 +1,11 @@
+{
+  "theme": "govuk",
+  "routes": [
+    "./apps/test-hof"
+  ],
+  "session": {
+    "name": "test-hof.hof.sid",
+    "secret": "Test1",
+    "ttl": 1800
+  }
+}

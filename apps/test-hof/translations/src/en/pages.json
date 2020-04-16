@@ -1,0 +1,14 @@
+{
+  "name": {
+    "header": "Name of the care home"
+  },
+  "address": {
+    "header": "Address details"
+  },
+  "contact": {
+    "header": "Contact details"
+  },
+  "connect": {
+    "header": "Information about the connectivity in the care home"
+  }
+}
