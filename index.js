@@ -17,7 +17,8 @@ const redissetting = {
     port: port || '6379',
     host: hostname || '127.0.0.1',
     password: pass,
-    url: uri
+    url: uri,
+    tls: {}
   };
 
 settings.routes = settings.routes.map(route => require(route));
